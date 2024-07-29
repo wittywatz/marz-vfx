@@ -2,12 +2,13 @@
 
 ## Application break down
 
-The application is comprised of 4 parts
+The application is comprised of 5 parts
 
 1. webapp -> Frontend for the applicaiton (written in React and Typescript)
 2. api.orders -> Backend for the applicaiton (written in flask)
-3. nginx -> The proxy for the requests
-4. db -> mariadb
+3. api.products -> Backend for the applicaiton (written in flask)
+4. nginx -> The proxy for the requests
+5. db -> mariadb
 
 ## Requirements
 
